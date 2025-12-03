@@ -130,8 +130,8 @@ Compiled top insights in a separate document along with recommendations to incre
 2. Save the data & ETL On Database server like MySQL DB. Run SQL Queries to clean, explore etc
 3. Load the cleaned dataset into Power BI, make sure to have proper connection and naming of dataset
 4. Open the Jupyter notebook and run all cells for ML model with correct credentials of database or data path
-5- Save Predictions (By ML) and Load into Power BI for visualization.
-6 - You can document insights and generate recommedations by properly understanding business problem and insights.
+5. Save Predictions (By ML) and Load into Power BI for visualization.
+6. You can document insights and generate recommedations by properly understanding business problem and insights.
 
 ---
 
